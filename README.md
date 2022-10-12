@@ -16,5 +16,5 @@ The result of the homework is two links to github, to Maven and Gradle projects,
 
 ## Solution
 
-1) Generate fat Jar using Maven installed on your machine, use command `mvn clean package` or using provided Maven wrapper `./mvnw clean package` (`mvnw clean package` in Windows). File `myname.jar` is generated and located in `target` directory.
-2) From `target` directory, run ` java -jar ./myname.jar` to run the program and print name.
+1) Generate fat Jar by using Maven installed on your machine - use command `mvn clean package` or by using provided Maven wrapper - use command `./mvnw clean package` (in Windows `mvnw clean package`). File `myname.jar` is generated and located in `target` directory.
+2) From `target` directory, run `java -jar ./myname.jar` to run the program and print name.
